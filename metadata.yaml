@@ -1,0 +1,33 @@
+_repo: Religion-and-Art-in-Ancient-Greece_20523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardner, Ernest Arthur
+    alias: Gardner, E. A. (Ernest Arthur)
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '9356'
+    url: http://www.gutenberg.org/2009/agents/9356
+description: ''
+gutenberg_bookshelf:
+- Greece
+- Paganism
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art and religion -- Greece'
+- !lcc 'BL'
+- !lcsh 'Art, Greek'
+- !lcsh 'Mythology, Classical, in art'
+- !lcsh 'Greece -- Religion'
+title: Religion and Art in Ancient Greece
+url: http://www.gutenberg.org/ebooks/20523
