@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9356'
     url: http://www.gutenberg.org/2009/agents/9356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20523#Religion-and-Art-in-Ancient-Greece
 gutenberg_bookshelf:
 - Greece
 - Paganism
